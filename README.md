@@ -5,7 +5,7 @@ https://github.com/user-attachments/assets/45383b59-2610-4695-842b-7b8a4d8d4351
 
 ### Problem Definition
 
-This project aims to detect and classify key objects in aerial drone imagery—specifically **buildings**, **flooded areas**, **garbage**, and **vehicles**. The application scope includes disaster response, urban planning, waste monitoring, and environmental assessments.
+This project aims to detect and classify key objects in aerial drone imagery—specifically **buildings**, **flooded areas**, **garbage**, and **vehicles**. The application scope includes disaster response, urban planning, waste monitoring, and environmental assessments.Download the Dataset and Folders from th zip file, and set the file system as shown as video, download libraries from requirements.txt.
 
 ---
 
