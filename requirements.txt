@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+pillow
+opencv-python
+ultralytics>=8.1.23
+streamlit
+requests
+numpy

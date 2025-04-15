@@ -1,0 +1,7 @@
+path: C:/Users/BIRUPAKSHYA PANIGRAH/PycharmProjects/Computer Vision/Dhineu/AerialData
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 4
+names: ['building', 'flooded_area', 'garbage', 'vehicle']
