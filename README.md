@@ -1,7 +1,7 @@
 # Aerial-Detection
 https://github.com/user-attachments/assets/45383b59-2610-4695-842b-7b8a4d8d4351
 
-## 📄 Project Summary: Aerial Object Detection using YOLOv8
+## Aerial Object Detection using YOLOv8
 
 ### Problem Definition
 
@@ -66,12 +66,12 @@ Performance on the **garbage class** was notably lower due to the limited number
 
 Key features of the project:
 
-- ✅ YOLOv8 fine-tuned on custom aerial image dataset
-- ✅ Augmented training data using Roboflow
-- ✅ Bounding box visualization using OpenCV
-- ✅ REST API backend built with FastAPI
-- ✅ Streamlit-based frontend dashboard
-- ✅ Modular and reusable Python code
+-  YOLOv8 fine-tuned on custom aerial image dataset
+-  Augmented training data using Roboflow
+-  Bounding box visualization using OpenCV
+-  REST API backend built with FastAPI
+-  Streamlit-based frontend dashboard
+-  Modular and reusable Python code
 
 ---
 
